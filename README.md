@@ -8,17 +8,22 @@ Derin Öğrenmeye'nin uygulamalarını yapmak için bir takım programları ve k
 
 Aşağıda bu programlar listelenmiştir. Linke tıklayarak öğrenmeye başlayabilirsiniz.
 
-1.Python  
-2.Numpy - Python Kütüphanesi [Numpy](https://colab.research.google.com/drive/12lglhecoXXNxDAv264Cnj2BM9CSf6FP-)
-3.Matplotlab - Python Kütüphanesi
-4.Pandas - Python Kütüphanesi
-5.SciPy - Python Kütüphanesi
+1. Python  
+
+2. Numpy - Python Kütüphanesi [Numpy](https://colab.research.google.com/drive/12lglhecoXXNxDAv264Cnj2BM9CSf6FP-)
+
+3. Matplotlab - Python Kütüphanesi
+
+4. Pandas - Python Kütüphanesi
+
+5. SciPy - Python Kütüphanesi
 
 Derin Öğrenme uygulamalarını yukarıdaki programlarla tamamen başlangıçtan yazmak yerine Framework programlar ve API'ler kullanılabilir.
 Google ait TensorFlow ve TensorFlow'u kullanan Keras API için aşağıdaki linklerden faydalanılabilir.
 
-1.TensorFlow ( Google Framework)
-2.Keras ( TensowFlow'u kullanabilen API)
+1. TensorFlow ( Google Framework)
+
+2. Keras ( TensowFlow'u kullanabilen API)
 
 Yapılan akademik çalışmalar için
 1.HABERLEŞME TEKNOLOJİLERİNE YÖNELİK DERİN ÖĞRENME ÇALIŞMALARININ İNCELENMESİ - submitted -- 
