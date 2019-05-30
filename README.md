@@ -13,7 +13,7 @@ Aşağıda bu programlar listelenmiştir. Linke tıklayarak öğrenmeye başlaya
 
 2. Numpy - Python Kütüphanesi [Colab Notebook](https://colab.research.google.com/drive/12lglhecoXXNxDAv264Cnj2BM9CSf6FP-)
 
-3. Matplotlab - Python Kütüphanesi
+3. Matplotlib - Python Kütüphanesi
 
 4. Pandas - Python Kütüphanesi
 
