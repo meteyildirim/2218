@@ -27,5 +27,17 @@ Google ait TensorFlow ve TensorFlow'u kullanan Keras API için aşağıdaki link
 
 Yapılan akademik çalışmalar için
 
+Makale Çalışmaları
+
 1.HABERLEŞME TEKNOLOJİLERİNE YÖNELİK DERİN ÖĞRENME ÇALIŞMALARININ İNCELENMESİ - submitted -- 
 [Article](https://drive.google.com/file/d/1btsDU0Me_ohimliONNKhaOTTfrFZa4wm/view?usp=sharing)
+
+Kitap Çalışması
+
+1. Elektronik Haberleşme ve Derin Öğrenme [Book](https://drive.google.com/file/d/1qE1XYyPP-ZgtGJ4cXpRzGTsqdTZ41xoh/view?usp=sharing)
+
+Derin Öğrenme Yöntemlerini öğrenmek için aşağıdaki çalışmalara bakabilirsiniz.
+
+1. DNN
+2. CNN
+3. RNN
