@@ -37,6 +37,8 @@ Kitap Çalışması
 
 1. Elektronik Haberleşme ve Derin Öğrenme [Book](https://drive.google.com/file/d/1qE1XYyPP-ZgtGJ4cXpRzGTsqdTZ41xoh/view?usp=sharing)
 
+2. İnteraktiv Derin Öğrenme Kitabı: Bu kitapta yukarıdaki belirtilen programlarala ilgili uygulamaları bulabilirsiniz.[ColabNotebook](https://colab.research.google.com/drive/1nXA6imGNoB_W_jptGiVCHJxqCA3Z1X2N)
+
 Derin Öğrenme Yöntemlerini öğrenmek için aşağıdaki çalışmalara bakabilirsiniz.
 
 1. DNN
