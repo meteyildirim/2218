@@ -26,5 +26,6 @@ Google ait TensorFlow ve TensorFlow'u kullanan Keras API için aşağıdaki link
 2. Keras ( TensowFlow'u kullanabilen API)
 
 Yapılan akademik çalışmalar için
+
 1.HABERLEŞME TEKNOLOJİLERİNE YÖNELİK DERİN ÖĞRENME ÇALIŞMALARININ İNCELENMESİ - submitted -- 
 [Article](https://drive.google.com/file/d/1btsDU0Me_ohimliONNKhaOTTfrFZa4wm/view?usp=sharing)
