@@ -9,9 +9,10 @@ Derin Öğrenmeye'nin uygulamalarını yapmak için bir takım programları ve k
 
 Aşağıda bu programlar listelenmiştir. Linke tıklayarak öğrenmeye başlayabilirsiniz.
 
-1. Python [Colab Notebook - Online Çalışma Kitabı] (https://colab.research.google.com/drive/1CHwcnz9t5vfEYB9a9XiIdOs4gEOlAp-Y)
+1. Python [Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/1CHwcnz9t5vfEYB9a9XiIdOs4gEOlAp-Y)
 
-2. Numpy - Python Kütüphanesi [Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/12lglhecoXXNxDAv264Cnj2BM9CSf6FP-)
+2. Numpy - Python Kütüphanesi 
+[Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/12lglhecoXXNxDAv264Cnj2BM9CSf6FP-)
 
 3. Matplotlib - Python Kütüphanesi [Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/1Lnwci8vQCNthIoLQxsWhYeKe3wzNkwso)
 
