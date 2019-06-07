@@ -28,7 +28,7 @@ Google ait TensorFlow ve TensorFlow'u kullanan Keras API için aşağıdaki link
 [Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/1SkCuLOHaeT78rUv38zcrkEYZbbA8l3Cz)
 
 2. Keras ( TensowFlow'u kullanabilen API) 
-[Colab Notebook - Online Çalışma Kitabı](https://drive.google.com/file/d/1JP2WwzqPqpEi662iYfrqpM_0qjBqkFrp/view?usp=sharing)
+[Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/1JP2WwzqPqpEi662iYfrqpM_0qjBqkFrp)
 
 ## Akademik Çalışmalar
 
