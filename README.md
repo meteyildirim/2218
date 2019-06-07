@@ -49,3 +49,4 @@ Derin Öğrenme Yöntemlerini öğrenmek için aşağıdaki çalışmalara bakab
 3. RNN
 
 ### Seçilmiş Makaleler
+### 2218 1. Rapor [Tıkla](https://www.dropbox.com/s/rbeo757l8lx4kyq/1.Rapor-2218-gelisme_raporu_formu_2106%20-DueTo_01_07_2019.doc?dl=0)
