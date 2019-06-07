@@ -13,9 +13,9 @@ Aşağıda bu programlar listelenmiştir. Linke tıklayarak öğrenmeye başlaya
 
 2. Numpy - Python Kütüphanesi [Colab Notebook](https://colab.research.google.com/drive/12lglhecoXXNxDAv264Cnj2BM9CSf6FP-)
 
-3. Matplotlib - Python Kütüphanesi
+3. Matplotlib - Python Kütüphanesi 
 
-4. Pandas - Python Kütüphanesi
+4. Pandas - Python Kütüphanesi [Colab Notebook](https://drive.google.com/file/d/1Ry11YCqWwTjBsN7wtCT-sU_dCQ7S0DZY/view?usp=sharing)
 
 5. SciPy - Python Kütüphanesi
 
