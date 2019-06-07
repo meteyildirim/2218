@@ -48,7 +48,13 @@ Derin Öğrenme Yöntemlerini öğrenmek için aşağıdaki çalışmalara bakab
 2. CNN
 3. RNN
 
-### Seçilmiş Makaleler
+### Seçilmiş Makaleler ve sunumlar
+#### Sunumlar
+
+1. Deep Learning for wireless communication [Tıkla](https://www.dropbox.com/s/nfppqkg7957lvsr/tut01_dl_com.pdf?dl=0)
+
+#### Makaleler
+
 ### 2218 
 
 1. Çalışma Planı [Tıkla](https://www.dropbox.com/s/6tht7au2r8fq3dp/2218_calisma_plani.pdf?dl=0)
