@@ -24,7 +24,8 @@ Aşağıda bu programlar listelenmiştir. Linke tıklayarak öğrenmeye başlaya
 Derin Öğrenme uygulamalarını yukarıdaki programlarla tamamen başlangıçtan yazmak yerine Framework programlar ve API'ler kullanılabilir.
 Google ait TensorFlow ve TensorFlow'u kullanan Keras API için aşağıdaki linklerden faydalanılabilir.
 
-1. TensorFlow ( Google Framework)[Colab Notebook - - Online Çalışma Kitabı(https://drive.google.com/file/d/1SkCuLOHaeT78rUv38zcrkEYZbbA8l3Cz/view?usp=sharing)
+1. TensorFlow ( Google Framework)
+[Colab Notebook - Online Çalışma Kitabı](https://drive.google.com/file/d/1SkCuLOHaeT78rUv38zcrkEYZbbA8l3Cz/view?usp=sharing)
 
 2. Keras ( TensowFlow'u kullanabilen API) [Colab Notebook - Online Çalışma Kitabı]
 
