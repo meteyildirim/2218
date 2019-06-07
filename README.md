@@ -55,10 +55,14 @@ Derin Öğrenme Yöntemlerini öğrenmek için aşağıdaki çalışmalara bakab
 
 2. Araştırma Önerisi [Tıkla](https://www.dropbox.com/s/881sczubphed8ch/arastirma_onerisi_formu_V2.pdf?dl=0)
 
-3. Gelişme Raporu 1, 01/07/2019 [Tıkla](https://www.dropbox.com/s/rbeo757l8lx4kyq/1.Rapor-2218-gelisme_raporu_formu_2106%20-DueTo_01_07_2019.doc?dl=0)
+3. Gelişme Raporu 1, 01/07/2019 
+[Tıkla](https://www.dropbox.com/s/rbeo757l8lx4kyq/1.Rapor-2218-gelisme_raporu_formu_2106%20-DueTo_01_07_2019.doc?dl=0)
 
-4. Gelişme Raporu 2, 01/01/2020 [Tıkla] (https://www.dropbox.com/s/zalwlpssppu8l2q/2.Rapor-2218-gelisme_raporu_formu_2016%20-DueTo_01_01_2020.doc?dl=0)
+4. Gelişme Raporu 2, 01/01/2020 
+[Tıkla](https://www.dropbox.com/s/zalwlpssppu8l2q/2.Rapor-2218-gelisme_raporu_formu_2016%20-DueTo_01_01_2020.doc?dl=0)
 
-5. Gelişme Raporu 3, 01/07/2020 [Tıkla] (https://www.dropbox.com/s/og6m05e5sll4pao/3.Rapor-2218-gelisme_raporu_formu_2016%20-DueTo_01_07_2020.doc?dl=0)
+5. Gelişme Raporu 3, 01/07/2020 
+[Tıkla](https://www.dropbox.com/s/og6m05e5sll4pao/3.Rapor-2218-gelisme_raporu_formu_2016%20-DueTo_01_07_2020.doc?dl=0)
 
-6. Gelişme Raporu 4, 30/10/2020 [Tıkla] (https://www.dropbox.com/s/odtypzrbcpukf23/4.Rapor-2218-sonucraporu_formu_2016-%20%20%20%20%20Due_To_30_10_2020.doc?dl=0)
+6. Gelişme Raporu 4, 30/10/2020 
+[Tıkla](https://www.dropbox.com/s/odtypzrbcpukf23/4.Rapor-2218-sonucraporu_formu_2016-%20%20%20%20%20Due_To_30_10_2020.doc?dl=0)
