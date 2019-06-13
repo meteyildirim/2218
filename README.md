@@ -61,7 +61,7 @@ Derin Öğrenme Yöntemlerini öğrenmek için aşağıdaki çalışmalara bakab
 
 #### Makaleler
 
-### 2218 
+### 2218 Dökümanları
 
 1. Çalışma Planı [Tıkla](https://www.dropbox.com/s/6tht7au2r8fq3dp/2218_calisma_plani.pdf?dl=0)
 
