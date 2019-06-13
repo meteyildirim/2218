@@ -1,8 +1,11 @@
 # Elektronik Haberleşme ve Derin Öğrenme
-Aşağıdaki linkleri tıkladığınızda konuyu örneklerle çalışabileceğiniz dosya Google ait Colab'ta açılacaktır.Dosya açıldıktan sonra örnekleri çalıştırarak kodların ne iş yaptığını görebilirsiniz. Eğer kodu değiştirmek isterseniz OPEN IN PLAYGROUND (menünün hemen altında göreceksiniz) tıklayınız. Burada koda değiştirip kendi örneklerinizi oluşturabilirsiniz. Ayrıca çalışmanızı File menüsünden kendi Google Drive'nıza kaydedebilirsiniz.
 
-# Electronic Communication and Deep Learning
-When you click on the links below, the file will be opened in Google's Colab. When you open the file, you can run the code and see what the codes do. If you want to change the code, click OPEN IN PLAYGROUND (you will see it below the menu). Here you can change your code and create your own examples. You can also save your work from the File menu to your own Google Drive.
+Bu sayfa derin öğrenme ve derin öğrenmenin haberleşme teknolojilerine uygulamalarını inceleyen çalışmalara bağlantılar içermektedir.
+Bu çalışmalardan bazıları interaktiv çalışmada sağlamaktadır. Aşağıda konunun yanında verilen linki tıkladığınızda konuyu örneklerle çalışabileceğiniz dosya Google ait Colab'ta açılacaktır. Dosya açıldıktan sonra örnekleri çalıştırarak kodların ne iş yaptığını görebilirsiniz.Kodun ne iş yaptığı kısaca kodun üzerinde açıklanmıştır. Eğer kodu değiştirmek isterseniz OPEN IN PLAYGROUND (menünün hemen altında göreceksiniz) tıklayınız. Burada koda değiştirip kendi örneklerinizi oluşturabilirsiniz. Ayrıca çalışmanızı File menüsünden kendi Google Drive'nıza kaydedebilirsiniz.
+
+This page contains links to studies examining the applications of deep learning and deep learning to communication technologies.
+Some of these studies provide an interactive study. Clicking on the link below the subject will open the file in Google's Colab where you can work with examples. After opening the file, you can run the examples to see what the code does. What the code does is explained briefly on the code. If you want to change the code, click OPEN IN PLAYGROUND. Here you can change the code and create your own examples. You can also save your work to your own Google Drive from the File menu.
+
 
 # Yapılan Çalışmalar
 Derin Öğrenmeye'nin uygulamalarını yapmak için bir takım programları ve kütüphanelerini bilmek gerekir.
