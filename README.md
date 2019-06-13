@@ -45,9 +45,11 @@ Google ait TensorFlow ve TensorFlow'u kullanan Keras API için aşağıdaki link
 
 Derin Öğrenme Yöntemlerini öğrenmek için aşağıdaki çalışmalara bakabilirsiniz.
 
-1. DNN
-2. CNN
-3. RNN
+1. DNN [Colab Notebook - Online Çalışma Kitabı]
+2. CNN [Colab Notebook - Online Çalışma Kitabı]
+3. RNN [Colab Notebook - Online Çalışma Kitabı]
+4. Autoencoders [Colab Notebook - Online Çalışma Kitabı]
+5. Reinforcement Learning [Colab Notebook - Online Çalışma Kitabı]
 
 ### Seçilmiş Makaleler ve sunumlar
 #### Sunumlar
