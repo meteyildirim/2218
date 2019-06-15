@@ -69,7 +69,7 @@ Aşağıda bu programlar ve bunların öğrenimi için (makine öğrenimini ger�
 2. Araştırma Önerisi [Tıkla](https://www.dropbox.com/s/881sczubphed8ch/arastirma_onerisi_formu_V2.pdf?dl=0)
 
 3. Gelişme Raporu 1, 01/07/2019 
-[Tıkla](https://www.dropbox.com/s/rbeo757l8lx4kyq/1.Rapor-2218-gelisme_raporu_formu_2106%20-DueTo_01_07_2019.doc?dl=0)
+[Tıkla](https://www.dropbox.com/s/ujpxjt2r61bvz3g/1.Rapor-2218-gelisme_raporu_formu_2106%20-DueTo_01_07_2019.pdf?dl=0)
 
 4. Gelişme Raporu 2, 01/01/2020 
 [Tıkla](https://www.dropbox.com/s/zalwlpssppu8l2q/2.Rapor-2218-gelisme_raporu_formu_2016%20-DueTo_01_01_2020.doc?dl=0)
