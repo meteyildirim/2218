@@ -10,7 +10,7 @@ Some of these studies provide an interactive study. Clicking on the link below t
 # Yapılan Çalışmalar
 Derin Öğrenmeye'nin uygulamalarını yapmak için bir takım programları ve kütüphanelerini bilmek gerekir.
 
-Aşağıda bu programlar listelenmiştir. Linke tıklayarak öğrenmeye başlayabilirsiniz.
+Aşağıda bu programlar ve bunların öğrenimi için (makine öğrenimini gerçekleştirmede yeterli olacak kadar) çalışmalarımız neticesinde hazırlanan kitap, teknik döküman, interaktiv öğrenme materyelleri verilmiştir. Bu materyeller araştırmanın ilerleyen safhalarında geliştirilmeye devam edecek ve sürekli olarak güncellenecektir. Hazırlanan bu materyeller Google Colab'ta pratik yapma imkanı sunmaktadır. 
 
 1. Python 
 [Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/1CHwcnz9t5vfEYB9a9XiIdOs4gEOlAp-Y)
@@ -24,20 +24,17 @@ Aşağıda bu programlar listelenmiştir. Linke tıklayarak öğrenmeye başlaya
 
 5. SciPy - Python Kütüphanesi [Colab Notebook - Online Çalışma Kitabı]
 
-Derin Öğrenme uygulamalarını yukarıdaki programlarla tamamen başlangıçtan yazmak yerine Framework programlar ve API'ler kullanılabilir.
-Google ait TensorFlow ve TensorFlow'u kullanan Keras API için aşağıdaki linklerden faydalanılabilir.
-
-1. TensorFlow ( Google Framework)
+6. TensorFlow ( Google Framework)
 [Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/1SkCuLOHaeT78rUv38zcrkEYZbbA8l3Cz)
 
-2. Keras ( TensowFlow'u kullanabilen API) 
+7. Keras ( TensowFlow'u kullanabilen API) 
 [Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/1JP2WwzqPqpEi662iYfrqpM_0qjBqkFrp)
 
 ## Akademik Çalışmalar
 
 ### Makale Çalışmaları
 
-1. HABERLEŞME TEKNOLOJİLERİNE YÖNELİK DERİN ÖĞRENME ÇALIŞMALARININ İNCELENMESİ - submitted -- 
+1. HABERLEŞME TEKNOLOJİLERİNE YÖNELİK DERİN ÖĞRENME ÇALIŞMALARININ İNCELENMESİ - Hakem incelemesinde -- 
 [Article](https://drive.google.com/file/d/1btsDU0Me_ohimliONNKhaOTTfrFZa4wm/view?usp=sharing)
 
 ### Kitap Çalışmaları
@@ -49,17 +46,21 @@ Google ait TensorFlow ve TensorFlow'u kullanan Keras API için aşağıdaki link
 Derin Öğrenme Yöntemlerini öğrenmek için aşağıdaki çalışmalara bakabilirsiniz.
 
 1. DNN [Colab Notebook - Online Çalışma Kitabı]
+
 2. CNN [Colab Notebook - Online Çalışma Kitabı]
+
 3. RNN [Colab Notebook - Online Çalışma Kitabı]
+
 4. Autoencoders [Colab Notebook - Online Çalışma Kitabı]
+
 5. Reinforcement Learning [Colab Notebook - Online Çalışma Kitabı]
 
 ### Seçilmiş Makaleler ve sunumlar
-#### Sunumlar
+#### Faydalı Sunumlar
 
 1. Deep Learning for wireless communication [Tıkla](https://www.dropbox.com/s/nfppqkg7957lvsr/tut01_dl_com.pdf?dl=0)
 
-#### Makaleler
+#### Faydalı Makaleler
 
 ### 2218 Dökümanları
 
