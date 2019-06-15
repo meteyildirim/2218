@@ -22,7 +22,7 @@ Aşağıda bu programlar ve bunların öğrenimi için (makine öğrenimini ger�
 
 4. Pandas - Python Kütüphanesi [Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/1Ry11YCqWwTjBsN7wtCT-sU_dCQ7S0DZY)
 
-5. SciPy - Python Kütüphanesi [Colab Notebook - Online Çalışma Kitabı]
+5. SciPy - Python Kütüphanesi - Hazırlanıyor [Colab Notebook - Online Çalışma Kitabı]
 
 6. TensorFlow ( Google Framework)
 [Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/1SkCuLOHaeT78rUv38zcrkEYZbbA8l3Cz)
@@ -37,13 +37,13 @@ Aşağıda bu programlar ve bunların öğrenimi için (makine öğrenimini ger�
 1. HABERLEŞME TEKNOLOJİLERİNE YÖNELİK DERİN ÖĞRENME ÇALIŞMALARININ İNCELENMESİ - Hakem incelemesinde -- 
 [Article](https://drive.google.com/file/d/1btsDU0Me_ohimliONNKhaOTTfrFZa4wm/view?usp=sharing)
 
-### Kitap Çalışmaları
+### Kitap Çalışmalarımız
 
 1. Elektronik Haberleşme ve Derin Öğrenme [Book](https://drive.google.com/file/d/1qE1XYyPP-ZgtGJ4cXpRzGTsqdTZ41xoh/view?usp=sharing)
 
 2. İnteraktiv Derin Öğrenme Kitabı: Bu kitapta yukarıdaki belirtilen programlarala ilgili uygulamaları bulabilirsiniz.[ColabNotebook](https://colab.research.google.com/drive/1nXA6imGNoB_W_jptGiVCHJxqCA3Z1X2N)
 
-Derin Öğrenme Yöntemlerini öğrenmek için aşağıdaki çalışmalara bakabilirsiniz.
+### Teknik Döküman Çalışmalarımız (Hazırlık Aşamasında)
 
 1. DNN [Colab Notebook - Online Çalışma Kitabı]
 
