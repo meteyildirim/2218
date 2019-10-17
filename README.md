@@ -55,8 +55,8 @@ Aşağıda bu programlar ve bunların öğrenimi için (makine öğrenimini ger�
 
 5. Reinforcement Learning [Colab Notebook - Online Çalışma Kitabı]
 
-6. Deep Learning Digital Haberleşme Uygulamaları[Colab Notebook - Online Çalışma Kitabı] (https://colab.research.google.com/drive/1vQWvKV5guucpdX1vPQvgEd1ia6-aII5z)
-
+6. Deep Learning Digital Haberleşme Uygulamaları
+[Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/1vQWvKV5guucpdX1vPQvgEd1ia6-aII5z)
 ### Seçilmiş Makaleler ve sunumlar
 #### Faydalı Sunumlar
 
