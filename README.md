@@ -22,7 +22,7 @@ Aşağıda bu programlar ve bunların öğrenimi için (makine öğrenimini ger�
 
 4. Pandas - Python Kütüphanesi [Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/1Ry11YCqWwTjBsN7wtCT-sU_dCQ7S0DZY)
 
-5. SciPy - Python Kütüphanesi - Hazırlanıyor [Colab Notebook - Online Çalışma Kitabı]
+5. SciPy - Python Kütüphanesi - Hazırlanıyor  [Colab Notebook - Online Çalışma Kitabı](https://drive.google.com/open?id=1zAEtaWjuX8ygzHX05Qa4aUlV9nALnVnh)
 
 6. TensorFlow ( Google Framework)
 [Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/1SkCuLOHaeT78rUv38zcrkEYZbbA8l3Cz)
