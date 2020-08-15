@@ -34,7 +34,7 @@ Aşağıda bu programlar ve bunların öğrenimi için (makine öğrenimini ger�
 
 ### Makale Çalışmaları
 
-1. HABERLEŞME TEKNOLOJİLERİNE YÖNELİK DERİN ÖĞRENME ÇALIŞMALARININ İNCELENMESİ - Hakem incelemesinde -- 
+1. HABERLEŞME TEKNOLOJİLERİNE YÖNELİK DERİN ÖĞRENME ÇALIŞMALARININ İNCELENMESİ - Yayımlandı -- 
 [Article](https://drive.google.com/file/d/1btsDU0Me_ohimliONNKhaOTTfrFZa4wm/view?usp=sharing)
 
 ### Kitap Çalışmalarımız
