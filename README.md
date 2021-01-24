@@ -39,7 +39,7 @@ Aşağıda bu programlar ve bunların öğrenimi için (makine öğrenimini ger�
 
 ### Kitap Çalışmalarımız
 
-1. Elektronik Haberleşme ve Derin Öğrenme [Book](https://drive.google.com/file/d/1jX2-9pTzVBfWYqbHFTmh-2CXFgXARHqz/view?usp=sharing)
+1. Elektronik Haberleşme ve Derin Öğrenme [Book](https://www.dropbox.com/s/1btbzztex1g5tha/Makine%C3%96%C4%9FrVeHaberle%C5%9FmeFinal.pdf?dl=0)
 
 2. İnteraktiv Derin Öğrenme Kitabı: Bu kitapta yukarıdaki belirtilen programlarala ilgili uygulamaları bulabilirsiniz.[ColabNotebook](https://colab.research.google.com/drive/1nXA6imGNoB_W_jptGiVCHJxqCA3Z1X2N)
 
