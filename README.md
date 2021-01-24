@@ -47,15 +47,6 @@ Aşağıda bu programlar ve bunların öğrenimi için (makine öğrenimini ger�
 
 Colab Notebookta hazırlanan örnekleri içeren çalışma kitabına aşağıdaki linkten ulaşabilirsiniz
 
-1. DNN [Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/1QrgPWxcU7bG-HmL5CHapmxKr2_UnUGbz?usp=sharing)
-
-2. CNN [Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/1QrgPWxcU7bG-HmL5CHapmxKr2_UnUGbz?usp=sharing)
-
-3. RNN [Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/1QrgPWxcU7bG-HmL5CHapmxKr2_UnUGbz?usp=sharing)
-
-4. Autoencoders [Colab Notebook - Online Çalışma Kitabı]
-
-5. Reinforcement Learning [Colab Notebook - Online Çalışma Kitabı]
 
 6. Deep Learning Digital Haberleşme Uygulamaları
 [Colab Notebook - Online Çalışma Kitabı](https://colab.research.google.com/drive/1vQWvKV5guucpdX1vPQvgEd1ia6-aII5z)
